@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "context": [
+    {
+      "keywords": ["hello", "hi"],
+      "response": "Welcome to StationFive."
+    },
+    {
+      "keywords": ["goodbye", "bye"],
+      "response": "Thank you, see you around."
+    }
+  ],
+  "default": {
+    "response": "Sorry, I don't understand."
+  }
+}
